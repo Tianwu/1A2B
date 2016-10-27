@@ -1,0 +1,8 @@
+d:\backup\documents\visual studio 2010\Projects\1A2B\1A2B\bin\Debug\1A2B.exe
+d:\backup\documents\visual studio 2010\Projects\1A2B\1A2B\bin\Debug\1A2B.pdb
+d:\backup\documents\visual studio 2010\Projects\1A2B\1A2B\obj\x86\Debug\_1A2B.Properties.Resources.resources
+d:\backup\documents\visual studio 2010\Projects\1A2B\1A2B\obj\x86\Debug\1A2B.csproj.GenerateResource.Cache
+d:\backup\documents\visual studio 2010\Projects\1A2B\1A2B\obj\x86\Debug\1A2B.exe
+d:\backup\documents\visual studio 2010\Projects\1A2B\1A2B\obj\x86\Debug\1A2B.pdb
+d:\backup\documents\visual studio 2010\Projects\1A2B\1A2B\obj\x86\Debug\_1A2B.MainForm.resources
+D:\Backup\Documents\Visual Studio 2010\Projects\1A2B\1A2B\obj\x86\Debug\1A2B.csprojResolveAssemblyReference.cache
